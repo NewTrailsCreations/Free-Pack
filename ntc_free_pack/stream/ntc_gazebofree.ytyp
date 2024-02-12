@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <lodDist value="50.00000000"/>
+      <flags value="537001984" />
+      <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-4.494629" y="-5.3125" z="0.031280518" />
+      <bbMax x="4.495117" y="5.301758" z="14.5625305" />
+      <bsCentre x="0.00024414062" y="-0.0053710938" z="7.2969055" />
+      <bsRadius value="10.057774" />
+      <hdTextureDist value="60.0"/>
+      <name>ntc_gazebofree</name>
+      <textureDictionary>ntc_gazebofree</textureDictionary>
+      <physicsDictionary>ntc_gazebofree</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>ntc_gazebofree</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>ntc_gazebofree</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>
